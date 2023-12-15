@@ -1,6 +1,7 @@
 # Changelog
 
 ## In Development
+* Use Ubuntu 20.04 LTS ISO as installation source.
 
 ## v3.8.1-20231213
 * StackStorm 3.8.1 released
